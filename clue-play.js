@@ -66,3 +66,5 @@ function jugar() {
 
 //Iniciar el juego
 jugar();
+
+//Testing de la documentación en Mintlify

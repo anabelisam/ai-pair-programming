@@ -10,6 +10,7 @@
 
 - **`tabnine-clue-play.js`**: Code generated with TabNine in Visual Studio Code.
 - **`replitagent-clue-play.js`**: Code generated online using Replit Agent.
+- **`copilot-clue-play.js`**: Code generated online using Github Copilot.
 
 The goal was to create a console-based game where, through clues, a secret word could be guessed.
 
@@ -24,6 +25,7 @@ The goal was to create a console-based game where, through clues, a secret word 
 
 - **`tabnine-clue-play.js`**: Código generado con TabNine en Visual Studio Code.
 - **`replitagent-clue-play.js`**: Código generado en línea usando Replit Agent.
+- **`copilot-clue-play.js`**: Código generado en línea usando Github Copilot.
 
 Hemos pedido crear un juego que se ejecute por consola y a través de pistas se pueda descifrar una palabra secreta.
 
